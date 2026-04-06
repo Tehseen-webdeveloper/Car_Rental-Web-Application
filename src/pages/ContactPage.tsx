@@ -3,8 +3,8 @@ import { useInView } from '../hooks/useInView'
 
 const contactInfo = [
   { icon: 'location', title: 'Address', value: 'Peshawar, KP, Pakistan' },
-  { icon: 'email', title: 'Email', value: 'tatheerabidi00@gmail.com' },
-  { icon: 'phone', title: 'Phone', value: '03275792600' },
+  { icon: 'email', title: 'Email', value: 'Tahseenullahafridi7@gmail.com' },
+  { icon: 'phone', title: 'Phone', value: '+92 333 9242445' },
   { icon: 'clock', title: 'Opening hours', value: '9am - 5pm (Mon - Fri)' },
 ]
 

@@ -55,7 +55,7 @@ const stats = [
 
 const howItWorks = [
   { step: 1, title: 'Choose Your Car', desc: 'Browse our fleet and select the vehicle that fits your needs and budget.' },
-  { step: 2, title: 'Book Online or Call', desc: 'Reserve your car through our website or call 03275792600 for instant booking.' },
+  { step: 2, title: 'Book Online or Call', desc: 'Reserve your car through our website or call +92 333 9242445 for instant booking.' },
   { step: 3, title: 'Pick Up & Drive', desc: 'Collect your vehicle from our Peshawar office with valid ID and driving license.' },
   { step: 4, title: 'Return & Pay', desc: 'Drop off the car at the agreed time. Simple, transparent billing in PKR.' },
 ]
@@ -225,7 +225,7 @@ export default function HomePage() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a href="tel:03275792600" className="inline-flex justify-center bg-orange-500 hover:bg-orange-600 text-white font-semibold px-8 py-3.5 rounded-lg transition-smooth">
-              Call 03275792600
+              Call +92 333 9242445
             </a>
             <Link to="/contact" className="inline-flex justify-center bg-white/20 hover:bg-white/30 text-white font-semibold px-8 py-3.5 rounded-lg border border-white/40 transition-smooth">
               Contact Us
